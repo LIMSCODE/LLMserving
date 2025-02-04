@@ -1,8 +1,8 @@
 ### LLM파인튜닝+RAG 웹앱LLM응답시스템 개발 
 #### SKILL
 ```
-Model : GPT-2, pytorch, python
-LLM serving : fastapi, GCP cloudrun, Docker
+LLM Model : GPT-2, pytorch, python
+serving : fastapi, GCP cloudrun, Docker
 Web : firebase, vue.js 
 App : Android 
 ```
