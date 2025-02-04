@@ -9,9 +9,14 @@ App : Android
 ```
 1.ServeLLM
 GCP cloudrun에 학습된 LLM모델배포 및 url생성
+
 2.webSolution
 웹에서 LLM url호출 및 firebase배포 url생성
+
 3.Android
 웹url호출
 ```
+![image](https://github.com/user-attachments/assets/b3765d14-c2fd-41f5-82d5-e548cb2a26b6)
+![image](https://github.com/user-attachments/assets/0ff70faf-d284-4506-9271-2e78fc30137a)
+
 
