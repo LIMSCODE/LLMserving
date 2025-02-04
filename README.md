@@ -16,7 +16,7 @@ GCP cloudrun에 학습된 LLM모델배포 및 url생성
 3.Android
 웹url호출
 ```
-![image](https://github.com/user-attachments/assets/b3765d14-c2fd-41f5-82d5-e548cb2a26b6)
+![image](https://github.com/user-attachments/assets/ec682e07-6452-4fd2-a51b-8ccdb82691f5)
 ![image](https://github.com/user-attachments/assets/0ff70faf-d284-4506-9271-2e78fc30137a)
 
 
